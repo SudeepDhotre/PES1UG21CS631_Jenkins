@@ -23,7 +23,7 @@ pipeline {
                 }
             }
             post {
-                success {
+                success123 {
                     echo 'Test stage successful'
                 }
             }
